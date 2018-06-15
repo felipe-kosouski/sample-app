@@ -23,3 +23,6 @@
 .byebug_history
 
 /.idea/*
+
+# Ignore uploaded test images.
+/public/uploads
